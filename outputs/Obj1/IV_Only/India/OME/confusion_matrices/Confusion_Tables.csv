@@ -1,0 +1,11 @@
+"Model","TP","FP","TN","FN"
+"Lasso",464,1819,5803,166
+"Ridge",461,1804,5818,169
+"Elastic Net",464,1817,5805,166
+"Logistic Regression",463,1799,5823,167
+"Decision Tree",437,1592,6030,193
+"Naive Bayes",412,1687,5935,218
+"Random Forest",30,4,7618,600
+"XGBoost",422,1586,6036,208
+"H2O Random Forest",36,14,7608,594
+"H2O GBM",33,7,7615,597
